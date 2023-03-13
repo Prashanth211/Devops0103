@@ -1,2 +1,2 @@
-This is our first GITHUB Session
-In this session we will be learning how to create Repository
+# This is our first GITHUB Session
+- In this session we will be learning how to create Repository
